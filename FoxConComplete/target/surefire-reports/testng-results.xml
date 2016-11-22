@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="8945595" started-at="2015-02-11T00:16:22Z" finished-at="2015-02-11T02:45:27Z">
+    <groups>
+    </groups>
+    <test name="Check actual click on Excel and send mail" duration-ms="47845" started-at="2015-02-11T02:44:39Z" finished-at="2015-02-11T02:45:27Z">
+      <class name="checkActualClickOnExcelAndSendEmail">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="113" started-at="2015-02-11T02:44:39Z" finished-at="2015-02-11T02:44:40Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2416" started-at="2015-02-11T02:44:40Z" finished-at="2015-02-11T02:44:42Z">
+        </test-method>
+        <test-method status="PASS" signature="checkActualClickOnExcelAndSendEmail()" name="checkActualClickOnExcelAndSendEmail" duration-ms="41242" started-at="2015-02-11T02:44:42Z" finished-at="2015-02-11T02:45:23Z">
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4072" started-at="2015-02-11T02:45:23Z" finished-at="2015-02-11T02:45:27Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="Execute clicking base on excel file" duration-ms="8897456" started-at="2015-02-11T00:16:22Z" finished-at="2015-02-11T02:44:39Z">
+      <class name="testClickBasedExcel_Session2">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="59" started-at="2015-02-11T00:16:22Z" finished-at="2015-02-11T00:16:22Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="4172" started-at="2015-02-11T00:16:22Z" finished-at="2015-02-11T00:16:27Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S2(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S2" duration-ms="2469478" started-at="2015-02-11T00:16:27Z" finished-at="2015-02-11T00:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=3176916577141001271]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="3827" started-at="2015-02-11T00:57:36Z" finished-at="2015-02-11T00:57:40Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2941" started-at="2015-02-11T00:57:40Z" finished-at="2015-02-11T00:57:43Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S2(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S2" duration-ms="1490924" started-at="2015-02-11T00:57:43Z" finished-at="2015-02-11T01:22:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=3844905655001001065]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="3751" started-at="2015-02-11T01:22:34Z" finished-at="2015-02-11T01:22:38Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2630" started-at="2015-02-11T01:22:38Z" finished-at="2015-02-11T01:22:40Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S2(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S2" duration-ms="1258276" started-at="2015-02-11T01:22:40Z" finished-at="2015-02-11T01:43:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=3140211531001001209]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4231" started-at="2015-02-11T01:43:38Z" finished-at="2015-02-11T01:43:43Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="6956" started-at="2015-02-11T01:43:43Z" finished-at="2015-02-11T01:43:50Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S2(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S2" duration-ms="1290874" started-at="2015-02-11T01:43:50Z" finished-at="2015-02-11T02:05:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=3419178579181001210]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4038" started-at="2015-02-11T02:05:21Z" finished-at="2015-02-11T02:05:25Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2136" started-at="2015-02-11T02:05:25Z" finished-at="2015-02-11T02:05:27Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S2(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S2" duration-ms="2348607" started-at="2015-02-11T02:05:27Z" finished-at="2015-02-11T02:44:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=2412335916641001349]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="3857" started-at="2015-02-11T02:44:35Z" finished-at="2015-02-11T02:44:39Z">
+        </test-method>
+      </class>
+      <class name="testClickBasedExcel_Session1">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="74" started-at="2015-02-11T00:16:22Z" finished-at="2015-02-11T00:16:22Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="4303" started-at="2015-02-11T00:16:23Z" finished-at="2015-02-11T00:16:27Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S1(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S1" duration-ms="1374245" started-at="2015-02-11T00:16:27Z" finished-at="2015-02-11T00:39:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=3076050573101001066]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="2277" started-at="2015-02-11T00:39:21Z" finished-at="2015-02-11T00:39:23Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2276" started-at="2015-02-11T00:39:23Z" finished-at="2015-02-11T00:39:26Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S1(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S1" duration-ms="1277856" started-at="2015-02-11T00:39:26Z" finished-at="2015-02-11T01:00:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=2335300996021001165]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="2237" started-at="2015-02-11T01:00:43Z" finished-at="2015-02-11T01:00:46Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2634" started-at="2015-02-11T01:00:46Z" finished-at="2015-02-11T01:00:48Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S1(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S1" duration-ms="1334265" started-at="2015-02-11T01:00:48Z" finished-at="2015-02-11T01:23:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=2295933134201001166]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4019" started-at="2015-02-11T01:23:03Z" finished-at="2015-02-11T01:23:07Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="2391" started-at="2015-02-11T01:23:07Z" finished-at="2015-02-11T01:23:09Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S1(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S1" duration-ms="2367556" started-at="2015-02-11T01:23:09Z" finished-at="2015-02-11T02:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=2433875709341001381]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4326" started-at="2015-02-11T02:02:37Z" finished-at="2015-02-11T02:02:41Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="3496" started-at="2015-02-11T02:02:41Z" finished-at="2015-02-11T02:02:44Z">
+        </test-method>
+        <test-method status="PASS" signature="clickBaseOnExcel_S1(java.lang.String, java.lang.String)" name="clickBaseOnExcel_S1" duration-ms="1251554" started-at="2015-02-11T02:02:44Z" finished-at="2015-02-11T02:23:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.foxcoworld.com/?seqno=2953579858461001152]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="4032" started-at="2015-02-11T02:23:36Z" finished-at="2015-02-11T02:23:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

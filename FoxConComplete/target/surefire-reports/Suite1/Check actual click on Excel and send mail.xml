@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LXHOANG" tests="1" failures="0" timestamp="10 Feb 2015 19:45:27 GMT" time="47.845" errors="0">
+  <testcase name="checkActualClickOnExcelAndSendEmail" time="41.242" classname="checkActualClickOnExcelAndSendEmail"/>
+</testsuite>

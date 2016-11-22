@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LXHOANG" tests="10" failures="0" timestamp="10 Feb 2015 19:44:39 GMT" time="8897.456" errors="0">
+  <testcase name="clickBaseOnExcel_S1" time="1374.245" classname="testClickBasedExcel_Session1"/>
+  <testcase name="clickBaseOnExcel_S2" time="2469.478" classname="testClickBasedExcel_Session2"/>
+  <testcase name="clickBaseOnExcel_S1" time="1277.856" classname="testClickBasedExcel_Session1"/>
+  <testcase name="clickBaseOnExcel_S2" time="1490.924" classname="testClickBasedExcel_Session2"/>
+  <testcase name="clickBaseOnExcel_S1" time="1334.265" classname="testClickBasedExcel_Session1"/>
+  <testcase name="clickBaseOnExcel_S2" time="1258.276" classname="testClickBasedExcel_Session2"/>
+  <testcase name="clickBaseOnExcel_S1" time="2367.556" classname="testClickBasedExcel_Session1"/>
+  <testcase name="clickBaseOnExcel_S2" time="1290.874" classname="testClickBasedExcel_Session2"/>
+  <testcase name="clickBaseOnExcel_S1" time="1251.554" classname="testClickBasedExcel_Session1"/>
+  <testcase name="clickBaseOnExcel_S2" time="2348.607" classname="testClickBasedExcel_Session2"/>
+</testsuite>
